@@ -8,4 +8,10 @@ html {
 
 html {
   background-color: #ccc;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+}
+
+ h2 {
+  text-align: center;
 }
