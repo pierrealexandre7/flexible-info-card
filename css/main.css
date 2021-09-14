@@ -19,4 +19,6 @@ html {
 li {
   display: flex;
   justify-content: space-around;
+  align-items: stretch;
+  margin: 1.5rem;
 }
