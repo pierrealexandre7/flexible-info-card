@@ -19,7 +19,10 @@ html {
 li {
   display: flex;
   justify-content: space-around;
-  align-items: stretch;
+  align-items: center;
   margin: 1.5rem;
-  padding: .5rem, 1rem, .6rem;
+}
+
+img {
+  width: 15%;
 }
