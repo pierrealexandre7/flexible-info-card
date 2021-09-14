@@ -21,8 +21,13 @@ li {
   justify-content: space-around;
   align-items: center;
   margin: 1.5rem;
+  padding:
 }
 
 img {
   width: 15%;
+}
+
+a {
+  background-color: #444;
 }
