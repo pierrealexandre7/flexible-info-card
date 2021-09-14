@@ -21,7 +21,7 @@ li {
   justify-content: space-around;
   align-items: center;
   margin: 1.5rem;
-  padding:
+  padding: 1rem, .6rem, .5rem;
 }
 
 img {
@@ -30,4 +30,6 @@ img {
 
 a {
   background-color: #444;
+  background-size:
+  color: #ccc;
 }
