@@ -21,4 +21,5 @@ li {
   justify-content: space-around;
   align-items: stretch;
   margin: 1.5rem;
+  padding: .5rem, 1rem, .6rem;
 }
