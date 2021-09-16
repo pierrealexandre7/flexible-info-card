@@ -14,8 +14,13 @@ h2 {
   margin-top: 2rem;
 }
 
-li {
+ul {
   display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+li {
   justify-content: space-around;
   align-items: center;
   margin: 1.5rem;
@@ -31,4 +36,8 @@ a {
   text-decoration: none;
   color: #ccc;
   padding: .5rem, 1rem, .6rem;
+}
+
+a:hover {
+  color: #00f;
 }
