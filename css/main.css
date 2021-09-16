@@ -1,18 +1,15 @@
 html {
   box-sizing: border-box;
+  background-color: #ccc;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-html {
-  background-color: #ccc;
-  font-family: "Open Sans", sans-serif;
-  line-height: 1.5;
-}
-
- h2 {
+h2 {
   text-align: center;
 }
 
@@ -21,7 +18,7 @@ li {
   justify-content: space-around;
   align-items: center;
   margin: 1.5rem;
-  padding: 1rem, .6rem, .5rem;
+  padding: .5rem, 1rem, .6rem;
 }
 
 img {
