@@ -16,9 +16,9 @@ h2 {
 
 li {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
-  margin: 1.5rem;
+  margin: .1rem, 1rem, 1.5rem;
 }
 
 img {
