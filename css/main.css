@@ -12,6 +12,7 @@ html {
 hgroup {
   width: 16rem;
   padding: .2rem .5rem 0;
+  margin-left: 0;
 }
 
 h2 {
