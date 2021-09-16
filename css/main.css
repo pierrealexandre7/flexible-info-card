@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 hgroup {
   width: 16rem;
   padding: .2rem .5rem 0;
@@ -28,7 +32,7 @@ li {
 
 img {
   width: 5rem;
-  margin-right:1.5rem;
+  margin-right: 1.5rem;
 }
 
 a {
