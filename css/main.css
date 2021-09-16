@@ -39,5 +39,9 @@ a {
 }
 
 a:hover {
-  color: #00f;
+  text-decoration: underline;
+}
+
+p {
+  width: 24rem;
 }
