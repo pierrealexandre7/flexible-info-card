@@ -13,6 +13,12 @@ body {
   margin: 0;
 }
 
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
 hgroup {
   width: 16rem;
   padding: .2rem .5rem 0;
